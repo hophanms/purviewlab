@@ -1144,6 +1144,6 @@ Navigate to **Body** and for the **raw** section, select **JSON** option. In thi
 
 ## :tada: Summary
 
-In this module, you learned how to get started with the Azure Purview REST API. To learn more about the Azure Purview REST API, check out the Azure Purview [Swagger documentation](https://github.com/Azure/Purview-Samples/raw/master/rest-api/PurviewCatalogAPISwagger.zip).
+In this module, you learned how to get started with the [Azure Purview REST API](https://aka.ms/PurviewAPIDoc). To learn more about the Azure Purview REST API, check out the Azure Purview [Swagger documentation](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/purview).
 
 [Continue >](../modules/module11.md)
